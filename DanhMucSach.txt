@@ -1,0 +1,6 @@
+S001	The Great Gatsby	F. Scott Fitzgerald	Penguin Books	Novel	10.99
+S002	1984	George Orwell	HarperCollins	Dystopian	12.50
+S003	To Kill a Mockingbird	Harper Lee	Random House	Classic	9.75
+S004	Moby-Dick	Herman Melville Simon & Schuster	Penguin Books	Adventure	15.00
+S005	War and Peace	Leo Tolstoy Macmillan	Random House	Historical	20.00
+S006	Di De Tro Ve	Truong Anh Ngoc	NXB Tri Thuc	Adventure	30
